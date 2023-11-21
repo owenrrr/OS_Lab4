@@ -45,3 +45,11 @@ No other commands are required.
 ### 3. References
 
 "Orange’s Implementation of an Operating System"
+
+
+
+### 4. Assignment
+
+- screenshot_1, screenshot_2
+
+- EXPERIMENT_DOCUMENT.md: explain details about the experiment implementation 
